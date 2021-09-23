@@ -1,5 +1,7 @@
 Welcome to the Bad Covid Math blog. This was started after we realized that many countries, Australia in particular, seemed to be guided more by political calculations than by pandemic science. In particular, we would like to see Australia recognise that its quarantine policies with regards to low-risk regions of origin like China are quite backwards.
 
+Watch our video [HERE](https://youtu.be/mHaP5R86NAY).
+
 ## How COVID Case numbers differ by region
 
 | Region | 7-Day Average Local Cases (12 Sept 2021) | Population | People per Local Case | Source | Comment |
