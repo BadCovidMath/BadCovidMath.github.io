@@ -1,6 +1,6 @@
 Welcome to the Bad Covid Math blog. This was started after we realized that many countries, Australia in particular, seemed to be guided more by political calculations than by pandemic science. In particular, we would like to see Australia recognise that its quarantine policies with regards to low-risk regions of origin like China are quite backwards.
 
-How COVID Case numbers differ by region
+## How COVID Case numbers differ by region
 
 | Region | 7-Day Average Local Cases (12 Sept 2021) | Population | People per Local Case | Source | Comment |
 |-----------------|-----------|---------------|---------------|------------|------------|
@@ -11,7 +11,7 @@ How COVID Case numbers differ by region
 | Victoria | 312 | 6.7Million | 1:21000 | covidlive.com.au | Rising |
 | New Zealand | 11 | 4.8Million | 1:230000 | coronavirus.jhu.edu | Stable |
 
-### Local Transmissions in China
+## Local Transmissions in China
 
 According to [coronavirus.jhu.edu](coronavirus.jhu.edu) China has been reporting average case numbers of around 50 per day. However, a closer look at the details in China's own reporting at the [National Health Commision of the Peoples Republic of China](http://www.nhc.gov.cn/) these case numbers are dominated by overseas arrivals. A search through the historical data shows that China has frequently been reporting zero local transmissions. However, like Australia they have had a few local outbreaks (especially in the Delta era). A basic estimate for the last few months suggests an average local transmission rate **easily below 10 cases per day**. Furthermore, these cases have usually been tracked and contained.
 
@@ -28,7 +28,7 @@ It's impossible to truly verify any regions COVID case numbers entirely independ
 5. China maintains **extreme transparency** regarding possible local transmissions as members of the public are warned to avoid any area with the most miniscule risk. For example, after a airport worker in Shanghai fell ill every working person in the city was required to report to their managers to confirm they had not been in the vicinity of this case. In the end, only the airport workers family members fell ill.
 6. The use of the so-called health-code system applies an extreme form of "digital contagion". People in China don't worry about getting COVID-19, but they go out of their way to avoid lossing a 'green' health code. This means being informed of any area where a local transmission has ever occured in recent weeks.
 
-## What is the Australian Break-Out Rate for Hotel Quarantine.
+## What is the Australian Break-Out Rate for Hotel Quarantine?
 
 Australian politicians have enjoyed claiming their system is 99.99% effective and preventing transmission. However, this is because these politicians are giving themselves credit for preventing COVID-19 from spreading from **negative** cases. Yes! They are counting cases without COVID-19 as 'prevention'. Yes, Australian has admitted 100's of thousands of people but only a few thousand have had COVID. The [COVIDLIVE](covidlive.com.au) website keeps comprehensive statistics an break out cases in Australia. This shows:
 
@@ -37,7 +37,7 @@ Australian politicians have enjoyed claiming their system is 99.99% effective an
 | Pre-Delta | 1:200 |
 | Post-Delta | 1:75 |
 
-## What is the Australian "Break-In" Rate to Hotel Quarantine
+## What is the Australian "Break-In" Rate to Hotel Quarantine?
 
 Australia does not keep statistics on this though there have been known cases of guest-to-guest transmission in Hotel Quarantine. Indeed, while Australia has been succeeding at maintaining a near ZERO-COVID environment it would be an extremely unlikely event. However, given the design of quarantine proceedures it can be assumed that the "Break-In" rate is probably much higher than the Break-Out rate of 1:75. However, as a conservative estimate the 1:75 can suffice.
 
@@ -49,7 +49,9 @@ This does not mean that there is 1 break-in event for every 75 people in quarant
   1. Find a viral host
   2. Infect this host enough for onward transmission
   3. and this transmission must happen before testing is positive and they themselves are quarantined
-These are the same sets of conditions that need to be true for a case to break-in to quarantine. i.e. Anything like vaccination and testing that prevents break-in is **already** counted in the break-out estimate.
+
+  These are the same sets of conditions that need to be true for a case to break-in to quarantine. i.e. Anything like vaccination and testing that prevents break-in is **already** counted in the break-out estimate.
+
 - **Are hotel quarantine workers likely to have COVID?** This is hard to tell. On one hand they are vaccinated and tested regularly but they are also frontline essential workers. They were faccinated first precisely because of their likelihood of being exposed to COVID-19. Socially and economically, they are likely mixing with other essential workers and their children are likely to attend daycare, school, etc. It's likely that this as about a break-even scenario for COVID risk.
 
 
